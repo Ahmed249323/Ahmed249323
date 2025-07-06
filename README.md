@@ -1,8 +1,8 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hey! Nice to see you.</h1>
 
 <p align="center">
-  <img src="https://github.com/Ahmed249323/Ahmed249323/blob/main/Black%20Gold%20Minimalist%20Elegant%20Business%20LinkedIn%20Banner.png?raw=true" alt="LinkedIn Banner" width="800" />
+  <img src="https://github.com/Ahmed249323/Ahmed249323/blob/main/Black%20Gold%20Minimalist%20Elegant%20Business%20LinkedIn%20Banner.png?raw=true" alt="LinkedIn Banner" width="1000" />
 </p>
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hey! Nice to see you.</h1>
 
 <p>
   Welcome to my page! <br />
@@ -65,9 +65,11 @@
   <a href="https://www.kaggle.com/ahmedabdelbaqi" target="_blank">
     <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
+  <a href="mailto:ahmedmahmoudabdelbaqi@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center"><i>“Data is the new oil — but only if refined.”</i> 🚀</p>
-

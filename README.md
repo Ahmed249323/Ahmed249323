@@ -2,7 +2,9 @@
 
 <p>
   Welcome to my page! <br />
-  I'm Ahmed Abdel Baqi, an aspiring Data Scientist from <img src="https://cdn-icons-png.flaticon.com/512/197/197610.png" width="13"/> <b>Egypt</b> 🇪🇬.<br />
+  I'm Ahmed Abdel Baqi, an aspiring Data Scientist from
+  <img src="https://flagcdn.com/w20/eg.png" width="20" alt="Egypt Flag" /> 🇪🇬.
+  <br />
   I’m passionate about transforming raw data into actionable insights and intelligent systems.
 </p>
 

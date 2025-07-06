@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="https://github.com/Ahmed249323/Ahmed249323/blob/main/Black%20Gold%20Minimalist%20Elegant%20Business%20LinkedIn%20Banner.png?raw=true" alt="LinkedIn Banner" width="800" />
+</p>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hey! Nice to see you.</h1>
 
 <p>
@@ -44,7 +48,7 @@
 | 💡 Project               | 🔗 Link                                                                              | 🔍 Description                                    |
 |-------------------------|-------------------------------------------------------------------------------------|--------------------------------------------------|
 | 🌍 World Layoffs         | [Repo](https://github.com/Ahmed249323/World-Layoffs)                               | Analysis and visualization of global layoffs    |
-| 🛍️ Superstore Sales     | [Repo](https://github.com/Ahmed249323/Superstore-Sales-Analysis)                    | Business sales dashboard and analytics           |
+| 🛍️ Superstore Sales     | [Repo](https://github.com/Ahmed249323/Superstore-Sales-Analysis)                    | Business sales analysis                           |
 | 🗃️ SQL Project Series   | [Repo](https://github.com/Ahmed249323/SQL-Project-Series)                           | SQL queries and database projects collection     |
 
 ---
@@ -66,3 +70,4 @@
 ---
 
 <p align="center"><i>“Data is the new oil — but only if refined.”</i> 🚀</p>
+

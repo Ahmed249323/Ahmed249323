@@ -71,7 +71,7 @@ class Ahmed:
 
 ### Business Intelligence & Analytics
 
-* **[HR Analytics Dashboard](https://github.com/Ahmed249323/HR-Analytics-Dashboard)** — Employee attrition, compensation trends, KPI dashboards (Power BI, DAX, data modeling).
+* **[HR Analytics Dashboard](https://github.com/Ahmed249323/HR-Analytics-Dashboard-Power-BI-Project.git)** — Employee attrition, compensation trends, KPI dashboards (Power BI, DAX, data modeling).
 * **[Superstore Sales Analysis](https://github.com/Ahmed249323/Superstore-Sales-Analysis)** — Sales trends, segmentation, forecasting prototypes (Python, pandas, matplotlib).
 
 ### Machine Learning & AI
@@ -81,7 +81,7 @@ class Ahmed:
 
 ### Data Engineering & SQL
 
-* **[SQL Data Warehouse](https://github.com/Ahmed249323/SQL-Data-Warehouse)** — Star schema design, ETL concepts, and query optimization.
+* **[SQL Data Warehouse](https://github.com/Ahmed249323/Data-Warehouse-Implementation-Using-SQL.git)** — Star schema design, ETL concepts, and query optimization.
 * **[SQL Project Series](https://github.com/Ahmed249323/SQL-Project-Series)** — Real-world SQL challenges and best practices.
 
 

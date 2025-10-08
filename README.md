@@ -1,75 +1,121 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> Hey! Nice to see you.</h1>
+# 👋 Welcome — I’m Ahmed Abdel Baqi
 
-<p align="center">
-  <img src="https://github.com/Ahmed249323/Ahmed249323/blob/main/Black%20Gold%20Minimalist%20Elegant%20Business%20LinkedIn%20Banner.png?raw=true" alt="LinkedIn Banner" width="1000" />
-</p>
+<div align="center">
 
-<p>
-  Welcome to my page! <br />
-  I'm Ahmed Abdel Baqi, an aspiring Data Scientist from
-  <img src="https://flagcdn.com/w20/eg.png" width="20" alt="Egypt Flag" /> 🇪🇬.
-  <br />
-  I’m passionate about transforming raw data into actionable insights and intelligent systems.
-</p>
+<img 
+  src="https://github.com/Ahmed249323/Ahmed249323/blob/main/194716.png?raw=true" 
+  alt="Professional Banner" 
+  width="100%" 
+  style="border-radius: 12px; box-shadow: 0px 2px 8px rgba(0,0,0,0.15);" 
+/>
 
----
 
-### 💼 What I Do
 
-- 🧠 Learning and building with **Machine Learning & Deep Learning**
-- 📊 Creating dashboards and analytical tools with **Power BI** & **Python**
-- 📚 Sharing my journey on [Kaggle](https://www.kaggle.com/ahmedabdelbaqi)
+### Ahmed Abdel Baqi — Data Scientist · ML Engineer
 
----
+**Turning data into decisions.**
 
-### ⚙️ Things I Code With
 
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
-  <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-2E3436?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Plotly" src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
-  <img alt="Scikit-Learn" src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-  <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-</p>
+
+</div>
 
 ---
 
-### 🧠 Projects
+## 🎯 About Me
 
-| 💡 Project               | 🔗 Link                                                                              | 🔍 Description                                    |
-|-------------------------|-------------------------------------------------------------------------------------|--------------------------------------------------|
-| 🌍 World Layoffs         | [Repo](https://github.com/Ahmed249323/World-Layoffs)                               | Analysis and visualization of global layoffs    |
-| 🛍️ Superstore Sales     | [Repo](https://github.com/Ahmed249323/Superstore-Sales-Analysis)                    | Business sales analysis                           |
-| 🗃️ SQL Project Series   | [Repo](https://github.com/Ahmed249323/SQL-Project-Series)                           | SQL queries and database projects collection     |
+I’m a Computer Science graduate from Damanhour, Egypt, passionate about building data-driven solutions that make real impact. My work focuses on transforming raw data into actionable insights using modern tools in data science, analytics, and machine learning.
 
----
-
-### 📬 Where to Find Me
-
-<p>
-  <a href="https://github.com/Ahmed249323" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-abdel-baqi-931b29338/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.kaggle.com/ahmedabdelbaqi" target="_blank">
-    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-  <a href="mailto:ahmedmahmoudabdelbaqi@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+```python
+class Ahmed:
+    name = "Ahmed Abdel Baqi"
+    location = "Egypt 🇪🇬"
+    role = "Data Scientist / ML Engineer / Data Analyst "
+    focus = [
+        "Building predictive ML models",
+        "Developing interactive Power BI dashboards",
+        "Designing SQL data warehouses",
+        "Optimizing data pipelines"
+    ]
+    contact = {
+        'email': 'ahmedmahmoudabdelbaqi@gmail.com',
+        'kaggle': 'ahmedabdelbaqi',
+        'linkedin': 'ahmed-abdel-baqi'
+    }
+```
 
 ---
 
-<p align="center"><i>“Data is the new oil — but only if refined.”</i> 🚀</p>
+## 🛠️ Tech & Tools
+
+**Core:** Python · SQL (T‑SQL) · Power BI · Jupyter
+
+**Libraries & ML:** pandas · NumPy · scikit-learn · PyTorch · XGBoost
+
+**Visualization & BI:** Matplotlib · Seaborn · Plotly · Power BI · DAX
+
+**Development Tools:** VS Code · GitHub
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Featured Projects
+
+### Business Intelligence & Analytics
+
+* **[HR Analytics Dashboard](https://github.com/Ahmed249323/HR-Analytics-Dashboard)** — Employee attrition, compensation trends, KPI dashboards (Power BI, DAX, data modeling).
+* **[Superstore Sales Analysis](https://github.com/Ahmed249323/Superstore-Sales-Analysis)** — Sales trends, segmentation, forecasting prototypes (Python, pandas, matplotlib).
+
+### Machine Learning & AI
+
+* **[Smarter Fraud Detection](https://github.com/Ahmed249323/Smarter-Fraud-Detection)** — End-to-end fraud detection pipeline with model comparison and evaluation (scikit-learn, PyTorch).
+* **[Trip Duration Prediction](https://github.com/Ahmed249323/Trip-Duration-Prediction)** — Feature engineering, regression models, and performance tuning.
+
+### Data Engineering & SQL
+
+* **[SQL Data Warehouse](https://github.com/Ahmed249323/SQL-Data-Warehouse)** — Star schema design, ETL concepts, and query optimization.
+* **[SQL Project Series](https://github.com/Ahmed249323/SQL-Project-Series)** — Real-world SQL challenges and best practices.
+
+
+
+---
+
+## 🧠 Skills Overview
+
+| Domain                 |                        Proficiency |
+| ---------------------- | ---------------------------------: |
+| Data Analysis          |           Advanced (pandas, NumPy) |
+| Machine Learning       | Proficient (scikit-learn, PyTorch) |
+| Visualization          |        Advanced (Plotly, Power BI) |
+| SQL & Data Warehousing |                           Advanced |
+| BI & Dashboarding      |         Proficient (Power BI, DAX) |
+
+
+
+
+## 📬 Contact & Collaboration
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Ahmed249323)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ahmed-abdel-baqi-931b29338/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge\&logo=kaggle\&logoColor=white)](https://www.kaggle.com/ahmedabdelbaqi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ahmedmahmoudabdelbaqi@gmail.com)
+
+**Open to:** Collaborations · Freelance · Full-time roles · Open-source contributions
+
+---
+
+<footer align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+
+
+</footer>
